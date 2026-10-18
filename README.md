@@ -1,4 +1,4 @@
-[10/18/26 16:05] Tadase Dorm: <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Yonas%20Habtamu&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
