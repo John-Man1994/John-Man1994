@@ -175,7 +175,7 @@ A collection of security tools, network monitoring scripts, and vulnerability as
 
 <div align="center">
 
-<i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra
+<i>"Simplicity is prerequisite for reliability."</i> 
 
 ⭐️ Thanks for visiting my profile!
 
